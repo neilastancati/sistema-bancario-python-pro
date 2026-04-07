@@ -28,3 +28,9 @@ pip install -r requirements.txt
 
 
 python api/app.py
+
+
+Inicie a Interface Desktop:
+   ```bash
+   python interface_desktop.py
+
